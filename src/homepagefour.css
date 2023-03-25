@@ -1,0 +1,77 @@
+*{
+    background-color: #2F1893;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    max-height: 100vh;
+    overflow: hidden;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+    float: right;
+    padding-right: 100px;
+    color: white;
+    font-size: 25px !important;
+    cursor: pointer;
+}
+.mainBodyContentContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.mainBodyContentContainer{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+}
+.mainContainerLeft{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 20px;
+}
+.mainContainerLeft img{
+    width: 80%;
+    object-fit: cover;
+}
+.mainContentRight{
+    padding-left: 150px;
+}
+.mainContentRight h3{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.mainContentRight h1{
+    font-size: 35px;
+    line-height: 1.2;
+    color: white;
+    font-weight: 600;
+    text-transform: capitalize;
+    padding-top: 30px;
+}
+.mainContentRight p{
+    line-height: 1.2;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    padding-top: 30px;
+}
+.buttonContainer{
+    background-color: #25DAC5;
+    color: white;
+    font-size: 16px;
+    text-transform: capitalize;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding: 10px 30px;
+    margin-top: 30px;
+    border: none;
+    cursor: pointer;
+}
