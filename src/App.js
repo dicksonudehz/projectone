@@ -1,6 +1,6 @@
-import HomepageFour from "./HomepageFour";
+// import HomepageFour from "./HomepageFour";
 // import Homepageone from "./Homepageone";
-// import Homepagethree from "./Homepagethree";
+import Homepagethree from "./Homepagethree";
 // import HomepageTwo from "./HomepageTwo";
 
 function App() {
@@ -8,8 +8,8 @@ function App() {
     <>
       {/* <Homepageone/> */}
       {/* <HomepageTwo/> */}
-      {/* <Homepagethree/> */}
-      <HomepageFour/>
+      <Homepagethree/>
+      {/* <HomepageFour/> */}
 
 
     </>
