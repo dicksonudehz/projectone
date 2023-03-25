@@ -8,7 +8,7 @@ function Homepagethree() {
   return (
     <>
       <div className="mainContainerThree">
-        <img src={Image1container3} alt="background illustration" />
+        <img src={Image1container3} alt="a illustration content" />
         <div className="ContentContainerThree">
           <div className="navContainertThree">
             <div className="navLinks">
