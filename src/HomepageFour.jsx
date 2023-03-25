@@ -12,7 +12,7 @@ function HomepageFour() {
         <div className="mainBodyContentContainer">
           <div className="mainBodyContentContainer">
             <div className="mainContainerLeft">
-              <img src={heroiphonexfour} alt="" />
+              <img src={heroiphonexfour} alt="illustration" />
             </div>
             <div className="mainContentRight">
               <h3>startup 3</h3>

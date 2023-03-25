@@ -6,7 +6,7 @@ function Homepageone() {
   return (
     <>
       <div className="mainNavContainer">
-        <img src={Image1container} alt="hero image" className="heroimage" />
+        <img src={Image1container} alt="hero illustration" className="heroimage" />
         <div className="navItems">
           <ul>
             <li>home</li>

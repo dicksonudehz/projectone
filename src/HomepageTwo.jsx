@@ -24,7 +24,7 @@ function HomepageTwo() {
         </div>
         <div className="rightContainer">
           <div className="empty"></div>
-          <img src={phoneimg} alt="" />
+          <img src={phoneimg} alt="illustration" />
         </div>
       </div>
     </>
