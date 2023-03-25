@@ -10,7 +10,7 @@
   z-index: -999px;
   height: 100vh;
   background-blend-mode: overlay;
-  /* background-color: rgb(15, 15, 104); */
+  background-color: rgb(15, 15, 104);
   opacity: 0.9;
 }
 .mainContainerThree img {
