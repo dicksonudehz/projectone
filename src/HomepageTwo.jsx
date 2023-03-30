@@ -1,10 +1,16 @@
 import React from "react";
-import phoneimg from "./images/iphonex.png";
+import phoneimg from "./images/img2.png";
 import "./HomepageTwo.css";
+import DensityMediumIcon from "@mui/icons-material/DensityMedium";
+
 
 function HomepageTwo() {
   return (
     <>
+    <div className="mainBodyContentCon">
+      <nav>
+          <DensityMediumIcon />
+        </nav>
       <div className="mainContainer">
         <div className="leftContainer">
           <h6>startup 3</h6>
@@ -26,6 +32,7 @@ function HomepageTwo() {
           <div className="empty"></div>
           <img src={phoneimg} alt="illustration " />
         </div>
+      </div>
       </div>
     </>
   );
