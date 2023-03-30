@@ -9,7 +9,7 @@ function HomepageFour() {
         <nav>
           <DensityMediumIcon />
         </nav>
-        <div className="mainBodyContentContainer">
+        {/* <div className="mainBodyContentContainer"> */}
           <div className="mainBodyContentContainer">
             <div className="mainContainerLeft">
               <img src={heroiphonexfour} alt="illustration content" />
@@ -34,7 +34,7 @@ function HomepageFour() {
             </div>
           </div>
         </div>
-      </div>
+      {/* </div> */}
     </>
   );
 }
