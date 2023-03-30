@@ -10,11 +10,10 @@ function Homepageone() {
         <div className="navItems">
           <ul>
             <li>home</li>
-            <li>home</li>
-            <li>home</li>
-            <li>home</li>
-            <li>home</li>
-            <li>home</li>
+            <li>about</li>
+            <li>service</li>
+            <li>F.A.Q</li>
+            <li>contact</li>
           </ul>
         </div>
         <div className="contentContainer">
